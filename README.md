@@ -1,6 +1,6 @@
 
 # Introduction
-This short video introduces the topics we'll be covering in section 02 and why they'll be important to you as a Data Scientist.
+This short video introduces the topics we'll be covering in section 04 and why they'll be important to you as a Data Scientist.
 
 ## Objectives
 You will be able to:
